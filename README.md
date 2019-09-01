@@ -21,3 +21,6 @@ instructions to use:- /*
 
 For vuforia, It will launch automatically when triggered with a image target. (to be implemented in future.)
 Seperate apk is provided in the source code file.you just have to scan the KFC logo to use it. 
+
+Youtube videos by me:- https://www.youtube.com/watch?v=gdpXjpLOkCs&feature=youtu.be
+https://www.youtube.com/watch?v=ZwpzMpxGyfU&feature=youtu.be
