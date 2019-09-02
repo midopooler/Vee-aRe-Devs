@@ -12,14 +12,17 @@ Idea:-  The idea is to make a indoor navigation app for a large sized mall , So 
 
 ### Description
 Project description:- The objective is to make indoor navigation easier via augmented reality and more effective marketing by attracting youth to the new technology.
-                      We have idea to place AR arrows in front of the user (can be seen n their mobile screen) which will guide them to their required destination.
-                      We want to build routes from one place to another iniside malls which can be done through AR navigation instead of asking people to people for directions or either searching for direction boards, Which saves a lot of time as sometimes pepole misguide the routes, or either misunderstood by person cosumes a lot of time to go to the actual place.
-                      After the campaign gets over, we would wish to increase our database from one mall to multiple malls. Plus, We would look forward to make UI/UX a lot better using the android studio.
+
+We have idea to place AR arrows in front of the user (can be seen n their mobile screen) which will guide them to their required destination.
+We want to build routes from one place to another iniside malls which can be done through AR navigation instead of asking people to people for directions or either searching for direction boards, Which saves a lot of time as sometimes pepole misguide the routes, or either misunderstood by person cosumes a lot of time to go to the actual place.
+
+After the campaign gets over, we would wish to increase our database from one mall to multiple malls. Plus, We would look forward to make UI/UX a lot better using the android studio.
 
 ### Instructions
-Instructions to use:- /* 
-                          This is applicable only for TDI Mall right now (Google map location:-https://goo.gl/maps/ECV6hvr8f5q2WjQs8)
-                       */
+Instructions to use:- 
+/* 
+  This is applicable only for TDI Mall right now (Google map location:-https://goo.gl/maps/ECV6hvr8f5q2WjQs8)
+*/
 1. Get inside the mall and open the application
 2. scan your surrounding area to let the app decide where you are. (only applicable in open area of mall, not inside the shops.)
 3. Tell the app where you want to go.
