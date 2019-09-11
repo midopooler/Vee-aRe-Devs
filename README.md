@@ -2,7 +2,7 @@
 HACKATHON REPOSITORY FOR HACKYOURREALITY
 project title:- Indoor Navigation for large Malls/ Places
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Fhr9TIWwabw)
 
 ### Presentation
 Prezi ppt link:- https://prezi.com/p/z3i37er1lvzy/
@@ -23,7 +23,8 @@ After the campaign gets over, we would wish to increase our database from one ma
 ### Instructions
 Instructions to use:- 
 /* 
-  This is applicable only for TDI Mall right now (Google map location:-https://goo.gl/maps/ECV6hvr8f5q2WjQs8)
+  This is applicable only for TDI
+Mall right now (Google map location:-https://goo.gl/maps/ECV6hvr8f5q2WjQs8)
 */
 1. Get inside the mall and open the application
 2. scan your surrounding area to let the app decide where you are. (only applicable in open area of mall, not inside the shops.)
