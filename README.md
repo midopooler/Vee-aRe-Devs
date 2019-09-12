@@ -27,7 +27,7 @@ After the campaign gets over, we would wish to increase our database from one ma
 Instructions to use:- 
 /* 
   This is applicable only for TDI
-Mall right now (Google map location:-https://goo.gl/maps/ECV6hvr8f5q2WjQs8)
+Mall and pacific mall right now (Google map location:-https://goo.gl/maps/ECV6hvr8f5q2WjQs8 and https://goo.gl/maps/nCuLn5ginqjniKDHA respectively)
 */
 1. Get inside the mall and open the application
 2. scan your surrounding area to let the app decide where you are. (only applicable in open area of mall, not inside the shops.)
