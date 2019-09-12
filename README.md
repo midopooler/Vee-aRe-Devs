@@ -7,7 +7,6 @@ project title:- Indoor Navigation for large Malls/ Places
 ### Presentation
 Prezi ppt link:- https://prezi.com/p/z3i37er1lvzy/
 
-![Demo Animation](../assets/GIF-190913_011828.gif?raw=true)
 
 ### Idea
 Idea:-  The idea is to make a indoor navigation app for a large sized mall , So that people could track their routes to the nearby shops and restrooms.Along with that , it will also be helping in advertising about shops and other things, either in route, or the destination, or both.
