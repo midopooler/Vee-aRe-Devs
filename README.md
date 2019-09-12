@@ -40,5 +40,7 @@ Seperate apk is provided in the source code file.you just have to scan the KFC l
 
 ### Demo Video
 Youtube videos by me:- https://www.youtube.com/watch?v=gdpXjpLOkCs&feature=youtu.be
+
                        https://www.youtube.com/watch?v=Fhr9TIWwabw&t=5s
+                       
                        https://www.youtube.com/watch?v=ZwpzMpxGyfU&feature=youtu.be
