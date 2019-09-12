@@ -2,7 +2,7 @@
 HACKATHON REPOSITORY FOR HACKYOURREALITY
 project title:- Indoor Navigation for large Malls/ Places
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Fhr9TIWwabw)
+
 
 ### Presentation
 Prezi ppt link:- https://prezi.com/p/z3i37er1lvzy/
