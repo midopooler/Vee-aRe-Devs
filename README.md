@@ -1,6 +1,6 @@
 # Vee-aRe-Devs
 HACKATHON REPOSITORY FOR HACKYOURREALITY
-project title:- Indoor Navigation for large Malls/ Places
+project title:- Indoor Navigation for large Malls/ Places.
 
 
 
