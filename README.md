@@ -5,7 +5,6 @@ project title:- Indoor Navigation for large Malls/ Places.
 
 
 ### Presentation
-Prezi ppt link:- https://prezi.com/p/z3i37er1lvzy/
 
 ![](GIF-190913_011828.gif)
 
@@ -45,6 +44,6 @@ Seperate apk is provided in the source code file.you just have to scan the KFC l
 Youtube videos by me:-
 1. https://www.youtube.com/watch?v=gdpXjpLOkCs&feature=youtu.be  (TDI mall demo)
 2. https://www.youtube.com/watch?v=Fhr9TIWwabw&t=5s              (Pacific mall demo)
-3. https://www.youtube.com/watch?v=-4FkV7TML2I&feature=youtu.be  (Pitching video)
+
 
 
